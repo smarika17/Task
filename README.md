@@ -1,4 +1,4 @@
-# Full-Stack Application: MERN Stack
+# Full-Stack Application
 
 Skip the setup, skip the hassle, and just click here to explore all the features live: [https://taskcv.onrender.com/](https://taskcv.onrender.com/) 😉
 
