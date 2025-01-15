@@ -57,7 +57,7 @@ cd Task
 
 3. Create a `.env` file in the frontend directory with the following variables:
    ```env
-   REACT_APP_API_URL=http://localhost:3000/api
+   REACT_APP_API_URL=http://localhost:3000
    ```
 
 4. Start the React development server:
@@ -67,7 +67,7 @@ cd Task
 
 ## Using the Application
 ### Development Mode
-- **Backend API**: `http://localhost:3000/api`
+- **Backend API**: `http://localhost:3000`
 - **Frontend**: `http://localhost:5173`
 
 ### Production Mode
